@@ -35,7 +35,7 @@ class Grafo:
             print(f"\n{i:2d}: ", end="")
             for w in range(len(self.listaAdj[i])):
                 val = self.listaAdj[i][w]
-                print(f"{val:2d}", end="") 
+                print(f"{val:2d}", end=" ") 
 
         print("\n\nfim da impressao do grafo." )
         
