@@ -1,0 +1,260 @@
+0
+71
+0 "Camiseta Basica Branca" 1
+1 "Calca Jeans Slim" 1
+2 "Jaqueta de Couro Preta" 1
+3 "Bermuda de Sarja Bege" 1
+4 "Tenis Casual Branco" 1
+5 "Camisa Polo Azul" 1
+6 "Sapato Social Preto" 1
+7 "Calca de Alfaiataria Cinza" 1
+8 "Blazer Marinho" 1
+9 "Moletom com Capuz Cinza" 1
+10 "Calca Jogger Preta" 1
+11 "Camiseta Estampada" 1
+12 "Shorts de Treino" 1
+13 "Regata Dry Fit" 1
+14 "Jaqueta Corta Vento" 1
+15 "Sobretudo de La" 1
+16 "Cachecol de Trico" 1
+17 "Gorro de La" 1
+18 "Meia Cano Alto" 1
+19 "Cinto de Couro" 1
+20 "Relogio de Pulso" 1
+21 "Oculos de Sol" 1
+22 "Bone Aba Curva" 1
+23 "Mochila Executiva" 1
+24 "Pasta de Couro" 1
+25 "Cardigan de Botao" 1
+26 "Sueter Gola V" 1
+27 "Camisa de Linho" 1
+28 "Bermuda de Linho" 1
+29 "Sandalia de Couro" 1
+30 "Chinelo de Dedo" 1
+31 "Camisa Xadrez Flanela" 1
+32 "Bota de Couro" 1
+33 "Calca Cargo" 1
+34 "Colete Acolchoado" 1
+35 "Parka Militar" 1
+36 "Camiseta Manga Longa" 1
+37 "Polo de Tricot" 1
+38 "Sapatenis Marrom" 1
+39 "Calca Chino Verde Oliva" 1
+40 "Jaqueta Bomber" 1
+41 "Sueter Gola Role" 1
+42 "Calca de Couro" 1
+43 "Top Esportivo" 1
+44 "Legging de Compressao" 1
+45 "Jaqueta Jeans Oversized" 1
+46 "Saia Midi Plissada" 1
+47 "Vestido Curto Verao" 1
+48 "Robe de Seda" 1
+49 "Pijama de Algodao" 1
+50 "Blusa de Seda" 1
+51 "Scarpin Preto" 1
+52 "Bolsa de Ombro" 1
+53 "Brincos de Argola" 1
+54 "Colar de Perolas" 1
+55 "Pulseira de Prata" 1
+56 "Anel de Ouro" 1
+57 "Macacao Curto" 1
+58 "Kimono Estampado" 1
+59 "Body de Renda" 1
+60 "Shorts Jeans Desfiado" 1
+61 "Top Cropped" 1
+62 "Blusa Ciganinha" 1
+63 "Mule de Camurca" 1
+64 "Rasteirinha com Pedrarias" 1
+65 "Chapeu de Palha" 1
+66 "Biquini Cortininha" 1
+67 "Saida de Praia" 1
+68 "Maiô Engana Mamãe" 1
+69 "Bolsa de Praia" 1
+70 "Tenis Jordan Vermelho" 1
+186
+0 1 1
+0 2 1
+0 3 1
+0 4 1
+0 10 1
+0 21 1
+1 2 1
+1 4 1
+1 33 1
+1 19 1
+2 4 1
+2 35 1
+2 22 1
+3 4 1
+3 5 1
+3 29 1
+4 12 1
+4 18 1
+5 7 1
+5 8 1
+5 25 1
+5 19 1
+6 7 1
+6 8 1
+6 15 1
+6 20 1
+7 8 1
+7 26 1
+7 23 1
+8 24 1
+8 20 1
+9 10 1
+9 14 1
+9 34 1
+9 17 1
+10 11 1
+10 14 1
+10 40 1
+10 36 1
+11 45 1
+11 22 1
+12 13 1
+12 14 1
+12 60 1
+12 18 1
+13 14 1
+13 44 1
+13 43 1
+14 35 1
+14 9 1
+15 16 1
+15 17 1
+15 41 1
+15 24 1
+16 17 1
+16 41 1
+16 15 1
+17 9 1
+17 34 1
+18 4 1
+18 12 1
+18 13 1
+19 6 1
+19 7 1
+19 38 1
+19 39 1
+20 0 1
+20 5 1
+20 23 1
+20 8 1
+21 27 1
+21 28 1
+21 65 1
+21 69 1
+22 11 1
+22 33 1
+22 61 1
+22 10 1
+23 8 1
+23 25 1
+23 26 1
+23 7 1
+24 8 1
+24 15 1
+24 51 1
+24 50 1
+25 26 1
+25 27 1
+25 37 1
+25 50 1
+26 27 1
+26 39 1
+26 8 1
+27 28 1
+27 29 1
+27 65 1
+28 29 1
+28 30 1
+28 66 1
+29 30 1
+29 64 1
+29 63 1
+30 67 1
+30 68 1
+31 32 1
+31 33 1
+31 40 1
+31 35 1
+32 33 1
+32 42 1
+32 40 1
+33 45 1
+33 35 1
+34 31 1
+34 36 1
+34 40 1
+34 9 1
+35 33 1
+35 32 1
+35 31 1
+35 40 1
+36 39 1
+36 10 1
+37 39 1
+37 7 1
+38 39 1
+38 40 1
+38 5 1
+39 27 1
+40 41 1
+40 33 1
+41 42 1
+41 15 1
+42 2 1
+43 44 1
+43 14 1
+43 12 1
+44 14 1
+44 13 1
+45 46 1
+45 47 1
+45 60 1
+46 50 1
+46 63 1
+47 51 1
+47 64 1
+48 49 1
+48 59 1
+49 18 1
+50 51 1
+50 52 1
+51 52 1
+51 54 1
+52 53 1
+52 56 1
+53 54 1
+53 55 1
+54 55 1
+54 56 1
+55 56 1
+55 53 1
+57 58 1
+57 63 1
+58 67 1
+59 60 1
+59 42 1
+60 61 1
+60 11 1
+61 62 1
+61 44 1
+62 60 1
+62 46 1
+63 46 1
+63 51 1
+64 47 1
+64 52 1
+65 66 1
+65 68 1
+66 67 1
+66 69 1
+67 68 1
+67 65 1
+68 69 1
+68 66 1
+69 67 1
+70 0 1
