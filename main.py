@@ -1,3 +1,4 @@
+# André Sapucaia de Araujo - 10418734
 # -*- coding: utf-8 -*-
 from grafoLista import Grafo 
 import os
@@ -11,7 +12,7 @@ class AppRecomendacao:
     def menu(self):
         while True:
             print("\n" + "="*40)
-            print("  SISTEMA DE LOOKS - MACKENZIE (6G)")
+            print("  SISTEMA DE LOOKS  ")
             print("="*40)
             print("a) Ler dados do arquivo grafo.txt")
             print("b) Gravar dados no arquivo grafo.txt")
@@ -102,7 +103,7 @@ class AppRecomendacao:
                 if not visitados[vizinho]: dfs(vizinho)
         dfs(0)
         if all(visitados): print("\nGrafo CONEXO: Todos os estilos se conectam.")
-        else: print("\nGrafo DESCONEXO: Estilos isolados detectados.")
+        else: print("\nGrafo DESCONEXO: Tem estilos isolados.")
 
     def recomendar(self):
         try:
